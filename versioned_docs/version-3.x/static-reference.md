@@ -41,7 +41,7 @@ import namedPng from '../../images/path/named.png'
 
 // 使用
 <View>
-  <Image src={namedPng} />
+  <image src={namedPng} />
 </View>
 ```
 
